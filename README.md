@@ -1,5 +1,5 @@
-##Introduction
-This report explores human resources (HR) analytics data, extracted from an HR database, to derive insights for improving decision-making and organizational efficiency. The data in question covers employee-related attributes such as performance reviews, promotions, salaries, and department affiliations. This analysis aims to evaluate employee trends, identify patterns, and propose data-driven recommendations to enhance employee satisfaction, performance, and retention.
+##Introduction##
+This report explores human resources (HR) analytics data, extracted from an HR database, to derive insights for improving decision-making and organizational efficiency. The data covers employee-related attributes such as performance reviews, promotions, salaries, and department affiliations. This analysis evaluates employee trends, identifies patterns, and proposes data-driven recommendations to enhance employee satisfaction, performance, and retention.
 
 The analysis includes a set of sheets with different perspectives on the HR data:
 
