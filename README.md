@@ -1,6 +1,6 @@
 # Introduction
 
-This report explores human resources (HR) analytics data, extracted from an HR database, to derive insights for improving decision-making and organizational efficiency. The data covers employee-related attributes such as performance reviews, promotions, salaries, and department affiliations. This analysis evaluates employee trends, identifies patterns, and proposes data-driven recommendations to enhance employee satisfaction, performance, and retention.
+ - This report explores human resources (HR) analytics data, extracted from an HR database, to derive insights for improving decision-making and organizational efficiency. The data covers employee-related attributes such as performance reviews, promotions, salaries, and department affiliations. This analysis evaluates employee trends, identifies patterns, and proposes data-driven recommendations to enhance employee satisfaction, performance, and retention.
 ---
 ## The analysis includes a set of sheets with different perspectives on the HR data:
 
@@ -39,6 +39,9 @@ This report explores human resources (HR) analytics data, extracted from an HR d
 ## 3. Data Gaps and Inconsistencies
 
  - Missing data, such as promotion dates, overdue vacation, and salary information, is present in various parts of the dataset. This inconsistency might hinder accurate analysis and the ability to make precise recommendations.
+
+![image](https://github.com/user-attachments/assets/bb5c71d7-af36-4ae9-97de-4b221d776e19)
+
 
 # Recommendation
  - Address Data Gaps: Ensure that all employee records are consistently updated. Implement processes for regular performance reviews and promotion updates to avoid gaps in crucial data.
